@@ -1,0 +1,12 @@
+CartDigi
+É uma aplicação de carteira digital para controle e organização de gastos e ganhos pessoais, sendo estes podendo ser classificados e separados em diferentes categorias.
+
+Principais funcionalidades são:
+Cadastro de Usuários; 
+Cadastro de Cartões Crédito;
+Cadastro de Contas Bancárias;
+Cadastro de Notificações( Que pode ser o prazo final de uma meta, um evento importante ao qual você precisa ser avisado em determinada data) ;
+Faq com respostas para as principais dúvidas;
+Controle de gastos mensais( Com Extratos e Controles de gastos e ganhos).
+
+A aplicação será para o mercado mobile e utilizando as tecnologias Flutter, Node.js e PostgreSQL. E trata-se de um sistema distribuído dividindo a aplicação 3 a fim de facilitar a manutenção e a escalabilidade, sendo essas partes respectivamente front-end, back-end e database.
