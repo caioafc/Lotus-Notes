@@ -1,0 +1,9 @@
+﻿Nome: Giovanna da Silva Gomes  
+RA:202051550872 
+Curso: Engenharia da Computação
+
+
+Escolha: CORBA
+
+
+Justificativa: Devido ao CORBA ser uma arquitetura que pode ser  implementada em diferentes linguagens e plataformas e como pretendemos usar o Flutter e Node e as outras tecnologias se prendem ao uso de Java ou Windows. Além da transparência e do desacoplamento causado pelo Broker, logo é mais fácil de escalar e de usar diferentes tecnologias(que é o nosso caso). Sendo franca gostei muito da ideia de Request Broker e da ideia de ter componentes plug and play.
