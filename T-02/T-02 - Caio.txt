@@ -1,0 +1,4 @@
+Caio Armestrong - 202051316853 - Engenharia da Computação
+
+Corba:
+A tecnologia RPC que mais se encaixa na proposta do nosso projeto é CORBA, pois decidimos trabalhar com linguagens stacks diferentes nas camadas de Front-end (Dart/flutter) e Back-end (Javascript/node), e o modelo traz como principal vantagem a independência de linguagem de programação. Além disso, essa interoperabilidade do COBRA entre os objetos distribuidos não nos prende a um único sistema operacional, o que faz todo sentido para nós, já que nossa aplicação será executada em aparelhos mobile, e será desenvolvido com uma stack cross-platform (Flutter) possibilitando a execução do mesmo nos sistemas Android e iOS. Desta forma CORBA acaba sendo o melhor modelo RPC que nos auxiliará na arquitetura do nosso projeto.
