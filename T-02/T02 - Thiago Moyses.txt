@@ -1,0 +1,8 @@
+Nome: Thiago da Silva Moyses
+RA: 202051882931
+Curso: Eng. da Comp.
+
+
+Decisao: CORBA
+
+Justificativa: Dentre as cantagens em utilizar CORBA, para mim, a que mais se destaca é o fato de que a tecnologia CORBA nao depende de linguagem, pondendo trabalhar com linguagens distintas. Além disso, CORBA tambem nao possui dependencia de sistema operacional, possibilitando clientes e dervidores, serem implementados sistemas operacionais distintos. 
