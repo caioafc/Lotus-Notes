@@ -2,3 +2,11 @@ AV1
 ---
 
 T01 = 1.5 pts
+
+T02
+
+	Caio		= 1.0 pt
+	Giovanna	= 1.0 pt
+	Thiago da Silva	= 1.0 pt
+	Washington	= 1.0 pt
+
