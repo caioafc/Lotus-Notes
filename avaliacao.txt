@@ -10,3 +10,6 @@ T02
 	Thiago da Silva	= 1.0 pt
 	Washington	= 1.0 pt
 
+T03 = 2.5 pts
+
+
