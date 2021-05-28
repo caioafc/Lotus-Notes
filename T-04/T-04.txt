@@ -1,0 +1,13 @@
+Opa professor, blz?
+
+Segue o trabalho T-04
+
+front:
+    repo: https://github.com/caioafc/todo
+    deploy: https://ln-todo-app.mybluemix.net/
+
+back (API): 
+    repo: https://github.com/thiagomoyses/CRUD-NODE
+    deploy: https://ln-todo-api.herokuapp.com/items
+
+Fizemos deploy do front no cloud foundry da IBM e a API do back no Heroku. Utilizamos Vuejs/Vuex no front e Nodejs/Express/MongoDB no back.
